@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dates Calculator</string>
+    <string name="pick_date">Date</string>
+    <string name="pick_dates">Date Range</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_dates">Select Dates</string>
+    <string name="err_date_parse">Could not parse the date. Please try again</string>
+    <string name="err_date_calculation">Unable to calculate the temporal units. Please try again</string>
+    <string name="err_unsupported_temporal_type">Unsupported temporal type. Please enter a valid temporal unit and try again</string>
+    <string name="err_number_overflow">Number overflow exception. Please try again</string>
+    <string name="pls_select_date">Please select a date</string>
+</resources>
